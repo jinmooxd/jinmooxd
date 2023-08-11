@@ -5,6 +5,12 @@ I'm a CS student @ Rice specializing in ML and AI
 
 🔭 I’m currently working on...
 
+## Fun Facts
+- 📚 I run a mentorship organizaiton specializing in helping high school students transition into college life
+- 🎮 I play Brawlhalla competitively and have reached rank #1 in Asia / #25 globally
+
+
+Feel free to connect with me, and let's create something awesome together! 🚀
 
 [Email](mailto:jy112@rice.edu) | [LinkedIn](https://www.linkedin.com/in/jinmoo-yoo) 
 
