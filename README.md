@@ -1,4 +1,4 @@
-# Hi there, I'm Jinmoo Yoo! 👋
+# Hi there, I'm [Jinmoo Yoo](https://www.yoojm.com)! 👋
 
 ## About Me
 I'm a CS student @ Rice specializing in ML and AI. Ultimately, I hope to use AI/ML as means of optimizing waste management policies and reduce plastic use.
