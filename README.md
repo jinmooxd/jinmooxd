@@ -3,7 +3,7 @@
 ## About Me
 I'm a CS student @ Rice specializing in ML and AI. Ultimately, I hope to use AI/ML as means of optimizing waste management policies and reduce plastic use.
 
-🔭 I’m currently working on...
+🔭 I’m currently working as a Combat Engineer for the Republic of Korea Special Warfare Command
 
 ## Fun Facts
 - 📚 I run a mentorship organizaiton specializing in helping high school students transition into college life
